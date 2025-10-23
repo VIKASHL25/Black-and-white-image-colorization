@@ -28,7 +28,7 @@ Download the required pre-trained model files from the following links:
 | **pts_in_hull.npy** | Cluster centers for the *ab* color space used during colorization. | [Download from GitHub](https://github.com/richzhang/colorization/blob/caffe/colorization/resources/pts_in_hull.npy) |
 | **colorization_release_v2.caffemodel** | Pre-trained model weights (required for inference). | [Download from Dropbox](https://www.dropbox.com/scl/fi/d8zffur3wmd4wet58dp9x/colorization_release_v2.caffemodel?rlkey=iippu6vtsrox3pxkeohcuh4oy&dl=0) |
 
-![Block Diaram](../blockdia.png)
+![Block Diaram](images/blockdia.png)
 
 -Input Image
 ![Input Image](images/img1.jpg)
