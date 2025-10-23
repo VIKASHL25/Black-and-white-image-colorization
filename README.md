@@ -17,3 +17,6 @@ This project converts grayscale images to color images using a pre-trained deep 
 - Python 3.x
 - OpenCV 
 - NumPy
+
+![Input Image](images/img1.jpg)
+![Colorized Output](images/output_image.png)
