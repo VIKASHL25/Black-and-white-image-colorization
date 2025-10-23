@@ -1,0 +1,9 @@
+# Ignore large model files
+Model/*.caffemodel
+Model/*.npy
+Model/*.prototxt
+
+
+# Python cache files
+__pycache__/
+*.pyc
