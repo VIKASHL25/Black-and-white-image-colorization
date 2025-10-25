@@ -22,8 +22,8 @@ This project converts grayscale images to color images using a pre-trained deep 
 
 Download the required pre-trained model files from the following links:
 
-| File Name | Description | Download Link |
-|------------|--------------|----------------|
+| File Name | Description | 
+|------------|--------------|
 | **colorization_deploy_v2.prototxt** | Network architecture definition file for the colorization model.  
 | **pts_in_hull.npy** | Cluster centers for the *ab* color space used during colorization. 
 | **colorization_release_v2.caffemodel** | Pre-trained model weights (required for inference).
